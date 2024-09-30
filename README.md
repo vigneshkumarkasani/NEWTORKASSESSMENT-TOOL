@@ -1,4 +1,4 @@
-# Network Compromise Assessment Tool
+# Network Assessment Tool
 
 ## Overview
 
@@ -24,8 +24,12 @@ The **Network Compromise Assessment Tool** is a Python-based application designe
 
 1. Clone the repository:
    ```bash
-   git clone 
-   cd 
+   git clone https://github.com/vigneshkumarkasani/NEWTORKASSESSMENT-TOOL.git
+   cd NEWTORKASSESSMENT-TOOL
+
+
+## Usage 
+-`python network_assessment.py -n <number_of_packets>`
 
 
    
